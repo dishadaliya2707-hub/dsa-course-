@@ -20,7 +20,7 @@ int binarySearch(int arr[], int size , int key){
         else if (arr[mid] < key)
         {
             left = mid + 1; //right
-        }ss
+        }
         else
         {
             right = mid - 1;  //left
