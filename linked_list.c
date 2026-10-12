@@ -87,4 +87,3 @@ void main() {
     printf("Linked List: ");
     // print list
     printList();
-}
